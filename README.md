@@ -47,7 +47,7 @@
 
 ![Olamilekan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olamilekan-oluwayomi&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olamilekan-oluwayomi&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Olamilekan-oluwayomi&layout=donut&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Olamilekan-oluwayomi&theme=radical&hide_border=true)
 
