@@ -45,7 +45,7 @@
 
 <div align="center">
 
-![Olamilekan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olamilekan-oluwayomi&show_icons=true&theme=radical&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Olamilekan-oluwayomi&theme=radical)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Olamilekan-oluwayomi&theme=radical)
 
